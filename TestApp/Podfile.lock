@@ -1,0 +1,16 @@
+PODS:
+  - SampleXCFramework (1.0.0)
+
+DEPENDENCIES:
+  - SampleXCFramework (from `../`)
+
+EXTERNAL SOURCES:
+  SampleXCFramework:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SampleXCFramework: d5bb892b56093478a7ccd69f07b9a399265f1341
+
+PODFILE CHECKSUM: fb2a448285c4e0df228cb2ce53881b0a691daf43
+
+COCOAPODS: 1.15.2

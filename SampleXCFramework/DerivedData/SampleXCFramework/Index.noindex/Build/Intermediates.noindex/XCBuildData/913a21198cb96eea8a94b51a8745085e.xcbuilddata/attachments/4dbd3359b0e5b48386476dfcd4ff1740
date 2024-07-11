@@ -1,0 +1,6 @@
+framework module SampleXCFramework {
+  umbrella header "SampleXCFramework.h"
+  export *
+
+  module * { export * }
+}

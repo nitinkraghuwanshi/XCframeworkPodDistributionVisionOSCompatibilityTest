@@ -1,0 +1,24 @@
+# Uncomment the next line to define a global platform for your project
+ platform :ios, '15.0'
+project 'TestApp.xcodeproj'
+
+target 'TestApp' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for TestApp
+ pod 'SampleXCFramework', :path => '../'
+end
+
+post_install do |installer|
+  installer.pods_project.targets.each do |target|
+    #*****************************************************************
+    # Adding Vision OS as SUPPORTED_PLATFORMS and TARGETED_DEVICE_FAMILY
+    #*****************************************************************
+    puts "Applying settings to target: #{target.name}"
+    target.build_configurations.each do |config|
+      config.build_settings['SUPPORTED_PLATFORMS'] = 'iphoneos iphonesimulator xros xrsimulator' # Includes VisionOS + xr simulator
+      config.build_settings['TARGETED_DEVICE_FAMILY'] = '1,2,6,7' # '7' for VisionOS and 1 for iPhone, 2 for iPad, 6 for Mac
+    end
+  end
+end

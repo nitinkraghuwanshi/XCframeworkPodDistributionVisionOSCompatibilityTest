@@ -1,0 +1,12 @@
+{
+  "" : {
+    "dependencies" : "/Users/raghuwanshin/VMW/Development/VisionOSCompatibilityTest/XCframeworkPodDistributionVisionOSCompatibilityTest/SampleXCFramework/DerivedData/SampleXCFramework/Index.noindex/Build/Intermediates.noindex/SampleXCFramework.build/Debug/SampleXCFrameworkTests.build/Objects-normal/arm64/SampleXCFrameworkTests-master.d",
+    "diagnostics" : "/Users/raghuwanshin/VMW/Development/VisionOSCompatibilityTest/XCframeworkPodDistributionVisionOSCompatibilityTest/SampleXCFramework/DerivedData/SampleXCFramework/Index.noindex/Build/Intermediates.noindex/SampleXCFramework.build/Debug/SampleXCFrameworkTests.build/Objects-normal/arm64/SampleXCFrameworkTests-master.dia",
+    "emit-module-dependencies" : "/Users/raghuwanshin/VMW/Development/VisionOSCompatibilityTest/XCframeworkPodDistributionVisionOSCompatibilityTest/SampleXCFramework/DerivedData/SampleXCFramework/Index.noindex/Build/Intermediates.noindex/SampleXCFramework.build/Debug/SampleXCFrameworkTests.build/Objects-normal/arm64/SampleXCFrameworkTests-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/raghuwanshin/VMW/Development/VisionOSCompatibilityTest/XCframeworkPodDistributionVisionOSCompatibilityTest/SampleXCFramework/DerivedData/SampleXCFramework/Index.noindex/Build/Intermediates.noindex/SampleXCFramework.build/Debug/SampleXCFrameworkTests.build/Objects-normal/arm64/SampleXCFrameworkTests-master-emit-module.dia",
+    "swift-dependencies" : "/Users/raghuwanshin/VMW/Development/VisionOSCompatibilityTest/XCframeworkPodDistributionVisionOSCompatibilityTest/SampleXCFramework/DerivedData/SampleXCFramework/Index.noindex/Build/Intermediates.noindex/SampleXCFramework.build/Debug/SampleXCFrameworkTests.build/Objects-normal/arm64/SampleXCFrameworkTests-master.swiftdeps"
+  },
+  "/Users/raghuwanshin/VMW/Development/VisionOSCompatibilityTest/XCframeworkPodDistributionVisionOSCompatibilityTest/SampleXCFramework/SampleXCFrameworkTests/SampleXCFrameworkTests.swift" : {
+
+  }
+}

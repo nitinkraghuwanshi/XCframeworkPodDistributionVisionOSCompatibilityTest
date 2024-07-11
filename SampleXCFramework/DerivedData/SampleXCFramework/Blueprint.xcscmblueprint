@@ -1,0 +1,23 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "1E2CF0BC7DBD7B30DDB90F176D91E1CBC3C05B57",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "1E2CF0BC7DBD7B30DDB90F176D91E1CBC3C05B57" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "83C628DC-1382-49A7-A72C-DC79D76F8AC4",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "1E2CF0BC7DBD7B30DDB90F176D91E1CBC3C05B57" : "XCframeworkPodDistributionVisionOSCompatibilityTest\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "SampleXCFramework",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "SampleXCFramework\/SampleXCFramework.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/nitinkraghuwanshi\/XCframeworkPodDistributionVisionOSCompatibilityTest.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1E2CF0BC7DBD7B30DDB90F176D91E1CBC3C05B57"
+    }
+  ]
+}
